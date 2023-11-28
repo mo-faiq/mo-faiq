@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @mo-faiq
+- 👀 I’m a Power Rangers, but i wouldnt tell you what colour ...
+- 🌱 I’m currently learning hwo to achieve zen...
+- 💞️ I’m looking to collaborate on my rap single...
+
+<!---
+mo-faiq/mo-faiq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
